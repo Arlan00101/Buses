@@ -44,8 +44,8 @@ while a < 97 and b < 97:
     time.sleep(0.07)
 
 if a >= 97:
-    gano = "RED BULL"
+    gano = "Cristhian"
 if b >= 97:
-    gano = "MONSTER"
+    gano = "Leonardo"
 
 print(f"{GREN}GANÓ LA CARRERA: {gano}{END}")
